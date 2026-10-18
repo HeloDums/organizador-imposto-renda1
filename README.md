@@ -47,8 +47,8 @@ Reunir em um único arquivo tudo o que costuma ser necessário na hora de declar
 
 ## 📸 Capturas de tela
 
-![Menu](images/menu.png)
-![Resumo](images/resumo.png)
+![Menu](menu.png)
+![Resumo](resumo.png)
 
 ## 🧠 Aprendizados
 
